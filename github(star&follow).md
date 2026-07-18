@@ -5,8 +5,6 @@
 
 **资源概览**　⭐ Star 收藏 **67**　·　👥 Following 关注 **36**　·　✨ 推荐补充 **14**
 
-来源：[Notion 原页面](https://app.notion.com/p/38206c21e16c816aadd0f6b32b5d47c6)
-
 ---
 
 ## 01 · 📦 Star 收藏
