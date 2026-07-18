@@ -27,7 +27,7 @@
 
 | 文档 | 内容 |
 | --- | --- |
-| [GitHub 收藏整理](<github(star&follow).md>) | GitHub Star 与 Following 分类导航 |
+| [GitHub 收藏整理](<github(star&follow).md>) | GitHub Star、Following 与推荐项目分类导航 |
 
 ### 故障排查
 
