@@ -3,7 +3,7 @@
 > 🧭 **GitHub 资源导航**  
 > 按使用场景整理，展开分类即可浏览；项目名称可直达对应仓库或主页。
 
-**资源概览**　⭐ Star 收藏 **113**　·　👥 Following 关注 **41**　·　✨ 推荐补充 **14**
+**资源概览**　⭐ Star 收藏 **142**　·　👥 Following 关注 **48**　·　✨ 推荐补充 **14**
 
 ---
 
@@ -175,6 +175,47 @@
 - [**bifrost**](https://github.com/axiom0x0/bifrost) · 通过二维码在电脑与手机间传输文件
 - [**altersend**](https://github.com/denislupookov/altersend) · 无云存储、无大小限制的设备间直传工具
 
+### 🎨 AI Skills 与设计工具补充　·　12 个项目
+
+- [**bggg-skills**](https://github.com/binggandata/bggg-skills) · BGGG 开源 Codex Skills 合集
+- [**ip-diagram-creator**](https://github.com/haloshin/ip-diagram-creator) · 使用个人 IP 形象生成专属内容图解
+- [**archify**](https://github.com/tt-a1i/archify) · 生成支持主题切换和多格式导出的架构图
+- [**codex-orange-book**](https://github.com/bozhouDev/codex-orange-book) · 从安装到实战案例的 Codex 中文指南
+- [**html-ppt-skill**](https://github.com/lewislulu/html-ppt-skill) · 带主题、布局和动画的 HTML PPT Agent Skill
+- [**ppt-master**](https://github.com/hugohe3/ppt-master) · 将文档或主题生成原生 PowerPoint 演示文稿
+- [**awesome-gpt-image**](https://github.com/ZeroLu/awesome-gpt-image) · GPT Image 2 提示词与示例精选
+- [**visual-ip-illustrations**](https://github.com/yangchuansheng/visual-ip-illustrations) · 支持多种视觉 IP 路线的手绘文章配图 Skill
+- [**baoyu-design**](https://github.com/JimLiu/baoyu-design) · 本地运行的 Claude Design Agent Skill
+- [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) · 使用编码代理前端能力生成 Web 幻灯片
+- [**blcaptain-style-skill**](https://github.com/dososo/blcaptain-style-skill) · 中文海报级图文卡片生成 Skill
+- [**skill**](https://github.com/anbeime/skill) · 按类别、更新时间和 Star 整理的 Skills 商店
+
+### 🤖 Agent、文档与安全工具补充　·　6 个项目
+
+- [**herdr**](https://github.com/ogulcancelik/herdr) · 运行于终端的 Agent 多路复用器
+- [**zero**](https://github.com/Gitlawb/zero) · 可自选模型、机器与规则的编码 Agent
+- [**strix**](https://github.com/usestrix/strix) · 开源 AI 渗透测试与应用漏洞修复工具
+- [**maigret**](https://github.com/soxoj/maigret) · 根据用户名从多个站点收集公开信息
+- [**open-knowledge**](https://github.com/inkeep/open-knowledge) · AI 原生 Markdown IDE 与 LLM Wiki
+- [**marker**](https://github.com/datalab-to/marker) · 将 PDF 高精度转换为 Markdown 与 JSON
+
+### ⌨️ 终端、远程与传输工具补充　·　5 个项目
+
+- [**ternssh**](https://github.com/haradakashiwa/ternssh) · 可部署到 Cloudflare Workers 的 Web SSH 方案
+- [**otty**](https://github.com/otty-shell/otty) · 面向开发与运维的终端工作区
+- [**tmux**](https://github.com/tmux/tmux) · 终端多路复用器
+- [**tokenscope**](https://github.com/HduSy/tokenscope) · macOS 菜单栏 Claude CLI Token 与成本看板
+- [**croc**](https://github.com/schollz/croc) · 简单安全的跨设备文件传输工具
+
+### 🖥️ 桌面、媒体与系统工具补充　·　6 个项目
+
+- [**ios-location-spoofer**](https://github.com/mekos2772/ios-location-spoofer) · 无需越狱的 iOS GPS 位置模拟工具
+- [**OfficeCLI**](https://github.com/iOfficeAI/OfficeCLI) · 面向 AI Agent 的 Word、Excel 与 PowerPoint 自动化 CLI
+- [**frame**](https://github.com/66HEX/frame) · FFmpeg 图形界面工具
+- [**image-3d**](https://github.com/animede/image-3d) · 将图像转换为适合 3D 打印的模型
+- [**ComfyUI-Crystools_extend**](https://github.com/lihaoyun6/ComfyUI-Crystools_extend) · ComfyUI-Crystools 功能扩展包
+- [**windhawk**](https://github.com/ramensoftware/windhawk) · Windows 程序自定义 Mod 市场
+
 ---
 
 ## 02 · 👥 Following 关注
@@ -245,6 +286,22 @@
 
 - [**browser-use**](https://github.com/browser-use) · 浏览器自动化与 AI Agent 工具组织
 - [**cloudflare**](https://github.com/cloudflare) · 网络、边缘计算与开发者平台
+
+### 📂 文件与自托管工具补充　·　3 个主页
+
+- [**AlistGo**](https://github.com/AlistGo) · AList 文件列表项目组织
+- [**filebrowser**](https://github.com/filebrowser) · Web 文件管理器组织
+- [**syncthing**](https://github.com/syncthing) · 开源点对点文件同步项目
+
+### ⌨️ 终端与网络工具补充　·　3 个主页
+
+- [**otty-shell**](https://github.com/otty-shell) · OTTY 终端工作区组织
+- [**tmux**](https://github.com/tmux) · tmux 终端多路复用器组织
+- [**daeuniverse**](https://github.com/daeuniverse) · 基于 eBPF 的高性能网络工具组织
+
+### 🎨 AI 与设计创作者补充　·　1 个主页
+
+- [**op7418**](https://github.com/op7418) · AI 设计、课程与信息整理创作者
 
 ---
 
