@@ -9,7 +9,6 @@
 
 ## 01 · Star 收藏
 
-> 已收藏的项目仓库，按功能与使用场景归档（原 21 个分类已合并重复项，精简为 14 个）。
 
 <details>
 <summary><strong>代理网络　·　22 个项目</strong></summary>
